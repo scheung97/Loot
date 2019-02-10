@@ -32,9 +32,9 @@ if category == "12b47723-3381-4ffc-b699-07d4b8e1bc1a" #id for food category in o
 	#increment values in the swipe array based on direction
 	for x in sku 
 		if swipe_direction == "left"
-			swipe[sku-1] = swipe[sku-1] + 1
+			swipe[sku-1] = swipe[sku-1] - 1
 		elif swipe_direction = "right"
-			swipe[sku-1] = swipe[sku-1] + 2
+			swipe[sku-1] = swipe[sku-1] + 1
 		elif swipe_direction == "up"
 			swipe[sku-1] = swipe[sku-1] + 5
 		else 
