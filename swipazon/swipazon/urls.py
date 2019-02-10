@@ -16,9 +16,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from django.urls import include, path
+from django.urls import path, re_path, include
 
 urlpatterns = [
     path('', include('home.urls')),
     path('admin/', admin.site.urls),
+    re_path('api/swiper/', include('swiper.urls')),
+    re_path('api/products/', include('products.urls')),
 ]

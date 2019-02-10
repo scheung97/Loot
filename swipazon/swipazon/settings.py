@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'home',
     'swiper',
-    'products'
+    'products',
+    'rest_framework'
 ]
 
 # AUTH_USER_MODEL = 'Users.CustomUser'
