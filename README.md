@@ -6,10 +6,6 @@ A new way to discover products that are tailored to your taste. Who knows, maybe
 ## Summary: 
 Our project is an app, where the user swipes to purchase and find new items. Using this information about what users like and dislike, our app is able to recommend to them and hide items from them as well. 
 
-<p align="center">
-  <img src="https://cdn-images-1.medium.com/max/1000/1*MyZwqijg02QRXBrHgkG0uw.gif" width="500style="max-width:100%;">
-</p>
-
 ## ML.py 
 Our team developed a "scoring system" for one category of goods, so we could display a proof of concept to show what our future ML algorithm would essentially do. 
 
