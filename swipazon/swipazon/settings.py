@@ -29,7 +29,7 @@ SECRET_KEY = ')uppm!v*a=!a9)94#u-5bi+yu6iw-6rnm=0e3vx4rn730)t4yr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['patrickhanbury1.pythonanywhere.com']
 
 
 # Application definition
