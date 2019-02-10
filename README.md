@@ -6,9 +6,7 @@ Project by: Cari Liu, Christopher Myers, Michelle Kang, Patrick Hanbury, Spenser
 A new way to discover products that are tailored to your taste. Who knows, maybe you'll discover some hidden treasure! 
 
 ## Summary: 
-Our project is an app, where the user swipes to purchase and find new items. 
-
-Add something about knowing disliked items 
+Our project is an app, where the user swipes to purchase and find new items. Using this information about what users like and dislike, our app is able to recommend to them and hide items from them as well. 
 
 ## Resources used: 
 ### APIs
@@ -16,7 +14,9 @@ Add something about knowing disliked items
 
 ### Software
 > AngularJS/Ionic
+
 > Django Rest Framework 
+
 > Swipable Stacked Cards by Bruno Marcelino
 
 
