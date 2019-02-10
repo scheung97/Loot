@@ -1,4 +1,4 @@
-# Loot
+# Loot: A new way to shop :)
 
 Project by: Cari Liu, Christopher Myers, Michelle Kang, Patrick Hanbury, Spenser Cheung, and Terry Chen 
 
