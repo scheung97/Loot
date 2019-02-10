@@ -1,8 +1,6 @@
 # Loot
 ## Find joy in the little things
 
-Project by: Cari Liu, Christopher Myers, Michelle Kang, Patrick Hanbury, Spenser Cheung, and Terry Chen
-
 A new way to discover products that are tailored to your taste. Who knows, maybe you'll discover some hidden treasure! 
 
 ## Summary: 
@@ -25,3 +23,6 @@ Our team developed a "scoring system" for one category of goods, so we could dis
 
 ## Acknowledgments
 The concept of our project is inspired by: Tinder
+
+Built at HackBeanpot 2019.
+Contributors: Cari Liu, Christopher Myers, Michelle Kang, Patrick Hanbury, Spenser Cheung, and Terry Chen
