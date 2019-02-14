@@ -10,7 +10,17 @@ A new way to discover products that are tailored to your taste. Who knows, maybe
 ## Summary: 
 Our project is an app, where the user swipes to purchase and find new items. Using this information about what users like and dislike, our app is able to recommend to them and hide items from them as well. 
 
-__Images of the UI/UX:__
+### Current Features: 
+- Log-in page (no username/password verfication implemented yet)
+- Category selection for filtering (filtering aspect not applied yet)
+- Add items to a wishlist using a right swipe + ability to edit the wishlist
+- Add items to the shopping cart using an upward swipe
+- Get rid of items using a left swipe
+- Cart checkout from app + Receive order in Moltin dashboard
+ 
+ <br />
+ 
+__Images of the UI/UX Features:__
 <br /> 
 <img src="https://github.com/scheung97/Loot/blob/master/Images/login-page.jpg" align = left width = 150 height = 300/>
 <img src="https://github.com/scheung97/Loot/blob/master/Images/Categories.jpg" align = left width = 150 height = 300/>
@@ -20,9 +30,9 @@ __Images of the UI/UX:__
 <img src="https://github.com/scheung97/Loot/blob/master/Images/SwipeLeft.jpg" align = left width = 150 height = 300/>
 <img src="https://github.com/scheung97/Loot/blob/master/Images/Wishlist.jpg"  align = left width = 150 height = 300/>
 <img src="https://github.com/scheung97/Loot/blob/master/Images/CheckoutPage.jpg"  align = left width = 150 height = 300/>
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /><br />
 
-## ML.py 
+### ML.py 
 Our team developed a "scoring system" for one category of goods, so we could display a proof of concept to show what our future ML algorithm would essentially do. 
 
 ## Resources used: 
