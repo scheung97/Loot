@@ -1,14 +1,17 @@
 # Loot
 ## Find joy in the little things
 
-A new way to discover products that are tailored to your taste. Who knows, maybe you'll discover some hidden treasure! 
-
+## Our Vision: 
+A reimagined retail experience that combines the joy of online shopping with fun game-like swiping gestures, with no monetary commitment for the user, and increased exposure for the retailer 
+<br /> 
 
 <img src = "https://github.com/scheung97/Loot/blob/master/Images/Logo.png" align = center width = 300 height = 300/>
 
 
 ## Summary: 
-Our project is an app, where the user swipes to purchase and find new items. Using this information about what users like and dislike, our app is able to recommend to them and hide items from them as well. 
+Loot is a new way to discover products that are tailored to your taste. Who knows, maybe you'll discover some hidden treasure! 
+
+This project is an app, where the user swipes to purchase and find new items. Using the information about what users like and dislike, our app is able to recommend to them and hide items from them as well. 
 
 ### Current Features: 
 - Log-in page (no username/password verfication implemented yet)
