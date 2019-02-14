@@ -1,5 +1,5 @@
 # Loot
-## Find joy in the little things
+Find joy in the little things 
 
 ## Our Vision: 
 A reimagined retail experience that combines the joy of online shopping with fun game-like swiping gestures, with no monetary commitment for the user, and increased exposure for the retailer 
@@ -11,7 +11,7 @@ A reimagined retail experience that combines the joy of online shopping with fun
 ## Summary: 
 Loot is a new way to discover products that are tailored to your taste. Who knows, maybe you'll discover some hidden treasure! 
 
-This project is an app, where the user swipes to purchase and find new items. Using the information about what users like and dislike, our app is able to recommend to them and hide items from them as well. 
+This project is a platform, where users swipe to purchase and find new items. Using the swipe and purchasing history of a user, our app is able to recommend to them and hide items from them as well. 
 
 ### Current Features: 
 - Log-in page (no username/password verfication implemented yet)
