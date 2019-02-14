@@ -1,5 +1,5 @@
 # Loot
-Find joy in the little things 
+Find joy in the little things :)
 
 ## Our Vision: 
 A reimagined retail experience that combines the joy of online shopping with fun game-like swiping gestures, with no monetary commitment for the user, and increased exposure for the retailer 
