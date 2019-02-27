@@ -51,7 +51,7 @@ Our team developed a "scoring system" for one category of goods, so we could dis
 
 ### How to Run: 
 - Download 'Loot-front' and run in Ionic <br />
-- Download the apk to your mobile phone (currently only supporting Android)
+- Download the .apk to your mobile phone (currently only supporting Android)
 
 
 ## Acknowledgments
