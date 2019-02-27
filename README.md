@@ -50,8 +50,8 @@ Our team developed a "scoring system" for one category of goods, so we could dis
 > Swipable Stacked Cards by Bruno Marcelino
 
 ### How to Run: 
-1. Download 'Loot-front' and run in Ionic <br />
-2. Download the apk to your mobile phone (currently only supporting Android)
+- Download 'Loot-front' and run in Ionic <br />
+- Download the apk to your mobile phone (currently only supporting Android)
 
 
 ## Acknowledgments
